@@ -1,0 +1,5 @@
+{
+    "scripts": {
+    "test": "testcafe firefox E2ETests/**/*.e2e.ts"
+    }
+}
